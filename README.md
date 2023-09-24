@@ -6,3 +6,6 @@
 
 任何疑問皆不在此答覆，有問題一律私訊b站
 
+Any file Guide will type in En to prevent the brain-dead user
+
+sorry but not sorry
