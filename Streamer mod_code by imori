@@ -942,3 +942,4 @@ void function SetScoreboardUpdateCallback( void functionref( entity, var ) func 
 	file.scoreboardUpdateCallback = func
 }
 
+file type_nut
