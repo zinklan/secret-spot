@@ -22,7 +22,7 @@ I got some dead mental in some occasions in the game, if it bothers you.
 
 Sorry about that
 
-(maybe not for some players
+( maybe not for some players )
 
 # Files for better game experience
 
