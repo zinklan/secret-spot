@@ -14,9 +14,9 @@ sorry but not sorry
 
 Titanfall2 movement player, used to play some competitive contest in Titanfall2 community
 
-Over 4000hrs playtime in two main account (PS4 & PC)
+Over 4000hrs playtime in two main account ( PS4 & PC )
 
-use Mnk now, controller before (shame to say this but I need to be honest)
+use Mnk now, controller before ( shame to say this but I need to be honest )
 
 I got some dead mental in some occasions in the game, if it bothers you.  
 
