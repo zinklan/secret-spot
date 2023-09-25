@@ -32,7 +32,7 @@ Sorry about that
 
 # Guide for using files into the game
 
-**Custom Config**
+## Custom Config
  
  Manual:
   1) copy the code from [code](https://github.com/zinklan/secret-spot/blob/main/Custom%20config%20for%20better%20display)and paste it on the note and save it as a cfg file 
