@@ -11,8 +11,11 @@ Any file Guide will type in En to prevent the brain-dead user
 sorry but not sorry
 
 
+
+
+
 # Files for better game experience
 
-**Custom config**
+[Custom Cofig?]([https://github.com/zweek/TF2SR-Menu-Mod/blob/main/contribute.md](https://github.com/zinklan/secret-spot/blob/main/Custom%20config%20for%20better%20display)https://github.com/zinklan/secret-spot/blob/main/Custom%20config%20for%20better%20display) :]
 
-**Streamer mod**
+[Streamer Mod?]([https://github.com/zweek/TF2SR-Menu-Mod/blob/main/contribute.md)](https://github.com/zinklan/secret-spot/blob/main/Streamer%20mod_code%20by%20imori)https://github.com/zinklan/secret-spot/blob/main/Streamer%20mod_code%20by%20imori :]
