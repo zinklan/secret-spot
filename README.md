@@ -21,8 +21,9 @@ Over 4000hrs playtime in two main account (PS4 & PC)
 
 use Mnk now, controller before (shame to say this but I need to be honest)
 
-I got some dead mental in some occasions in the game,if it bother you. sry about that
+I got some dead mental in some occasions in the game, if it bothers you.  
 
+Sorry about that
 
 
 # Files for better game experience
