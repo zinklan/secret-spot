@@ -38,7 +38,7 @@ file type_nut.
  
  Manual:
   1) copy the code from [here](https://github.com/zinklan/secret-spot/blob/main/CODES/config) and paste it on the note and save it as a cfg file 
-  2) Paste this file into the game folder `cfg`  _  folder location:(EA Games\Titanfall2\r2\cfg)
+  2) Paste this file into the game folder `cfg`  _   folder location : (EA Games\Titanfall2\r2\cfg)
   3) type the word `+exec autoexec` in the advanced launch options
 ### Screenshots
 ![image](https://github.com/zinklan/secret-spot/blob/main/IMAGES/Titanfall%202-09-25-2023%2020-46-00-920.jpeg)
