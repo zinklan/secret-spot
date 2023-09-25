@@ -10,9 +10,6 @@ Any file Guide will type in En to prevent the brain-dead user
 
 sorry but not sorry
 
-
-
-
 # About me
 
 Titanfall2 movement player, used to play some competitive contest in Titanfall2 community
@@ -24,7 +21,6 @@ use Mnk now, controller before (shame to say this but I need to be honest)
 I got some dead mental in some occasions in the game, if it bothers you.  
 
 Sorry about that
-
 
 # Files for better game experience
 
