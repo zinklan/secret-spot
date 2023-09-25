@@ -30,4 +30,4 @@ Sorry about that
 
 [Streamer mode](https://github.com/zinklan/secret-spot/blob/main/Streamer%20mod_code%20by%20imori) 
 
-# Guide for using file into the game
+# Guide for using files into the game
