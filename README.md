@@ -38,5 +38,6 @@ Sorry about that
   1) copy the code from [here](https://github.com/zinklan/secret-spot/blob/main/Custom%20config%20for%20better%20display) and paste it on the note and save it as a cfg file 
   2) Paste this file into the game folder `cfg`  _  folder location:(EA Games\Titanfall2\r2\cfg)
   3) type the word `+exec autoexec` in the advanced launch options
-     
+### Screenshots
+
 ## Streamer mode  
