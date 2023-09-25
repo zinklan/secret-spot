@@ -33,9 +33,11 @@ file type_cfg.
 file type_nut.
 
 # Guide for using files into the game
-##purpose
+
+## purpose
 
 `Custom Config` can optimize the graphics to get a better view
+
 `Streamer mod` is a mod written by Imori which can hidden the network name & player ID on the scoreboard, but don't effect on chat and obituaries
 
 
