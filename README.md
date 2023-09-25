@@ -11,8 +11,8 @@ Any file Guide will type in En to prevent the brain-dead user
 sorry but not sorry
 
 
-# Mods
+# Files for better game experience
 
-**textures change**
+**custom config**
 
-
+**Streamer mod**
