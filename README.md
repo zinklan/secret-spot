@@ -22,6 +22,8 @@ I got some dead mental in some occasions in the game, if it bothers you.
 
 Sorry about that
 
+(maybe not for some players
+
 # Files for better game experience
 
 [Custom config](https://github.com/zinklan/secret-spot/blob/main/Custom%20config%20for%20better%20display) 
