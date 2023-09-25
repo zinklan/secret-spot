@@ -1,9 +1,12 @@
-#Copy the code below
+Copy the code below
+
 
 mat_sun_scale "0"
 mat_sun_color "1 1 1"
 mat_sky_scale "0.5"
 mat_sky_color "3 4 3"
 mat_disable_bloom "1"
+
+
 
 ----file type_cfg
