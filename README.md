@@ -15,6 +15,11 @@ sorry but not sorry
 
 # About me
 
+Titanfall2 movement player, over 4000hrs playtime in two main account (PS4 & PC)
+
+
+use Mnk, controller before (over)
+
 
 # Files for better game experience
 
