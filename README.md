@@ -33,8 +33,9 @@ Sorry about that
 # Guide for using files into the game
 
 **Custom Config**
+ 
  Manual:
-  
-  1)copy the code from [code](https://github.com/zinklan/secret-spot/blob/main/Custom%20config%20for%20better%20display)and paste it on the note and save it as a cfg file 
-  2)Paste this file into the game folder `cfg` _ folder location(EA Games\Titanfall2\r2\cfg)
-  3)type the word `+exec autoexec` in the advanced launch options
+1) copy the code from [code](https://github.com/zinklan/secret-spot/blob/main/Custom%20config%20for%20better%20display)and paste it on the note and save it as a cfg file 
+2) Paste this file into the game folder `cfg` _ folder location(EA Games\Titanfall2\r2\cfg)
+3) type the word `+exec autoexec` in the advanced launch options
+ 
