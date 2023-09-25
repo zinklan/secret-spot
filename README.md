@@ -18,6 +18,6 @@ sorry but not sorry
 
 # Files for better game experience
 
-[Custom config](https://github.com/zinklan/secret-spot/blob/main/Custom%20config%20for%20better%20display) :]
+[Custom config](https://github.com/zinklan/secret-spot/blob/main/Custom%20config%20for%20better%20display) 
 
-[Streamer mode](https://github.com/zinklan/secret-spot/blob/main/Streamer%20mod_code%20by%20imori) :]
+[Streamer mode](https://github.com/zinklan/secret-spot/blob/main/Streamer%20mod_code%20by%20imori) 
