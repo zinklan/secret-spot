@@ -13,6 +13,6 @@ sorry but not sorry
 
 # Files for better game experience
 
-**custom config**
+**Custom config**
 
 **Streamer mod**
