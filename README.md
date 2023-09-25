@@ -36,11 +36,15 @@ file type_nut.
 
 ## Purpose
 
-`Custom Config` can optimize the graphics to get a better view
+`Custom Config` 
 
-`Streamer mod` is a mod written by Imori which can hidden the network name & player ID on the scoreboard
-               
-               , but don't effect on chat and obituaries
+can optimize the graphics to get a better view
+
+`Streamer mod` 
+
+a mod written by Imori which can hidden the network name & player ID on the scoreboard
+
+but don't effect on chat and obituaries
 
 
 ## Custom Config
