@@ -11,4 +11,6 @@ Any file Guide will type in En to prevent the brain-dead user
 sorry but not sorry
 
 
-# mod introduce
+# Mods
+ *textures change
+ *streamer mode
