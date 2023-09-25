@@ -26,9 +26,11 @@ Sorry about that
 
 # Files for better game experience
 
-[Custom config](https://github.com/zinklan/secret-spot/blob/main/CODES/config) 
+[Custom config](https://github.com/zinklan/secret-spot/blob/main/CODES/config)  
+file type_cfg.
 
-[Streamer mode](https://github.com/zinklan/secret-spot/blob/main/CODES/cl_scoreboard_mp) 
+[Streamer mode](https://github.com/zinklan/secret-spot/blob/main/CODES/cl_scoreboard_mp)  
+file type_nut.
 
 # Guide for using files into the game
 
