@@ -40,9 +40,6 @@ Sorry about that
   3) type the word `+exec autoexec` in the advanced launch options
 ### Screenshots
 ![image](https://github.com/zinklan/secret-spot/blob/main/IMAGES/Titanfall%202-09-25-2023%2020-46-00-920.jpeg)
-![image](https://github.com/zinklan/secret-spot/blob/main/IMAGES/Titanfall%202-09-25-2023%2020-46-32-776.jpeg)
 ![image](https://github.com/zinklan/secret-spot/blob/main/IMAGES/Titanfall%202-09-25-2023%2020-47-56-413.jpeg)
-![image](https://github.com/zinklan/secret-spot/blob/main/IMAGES/Titanfall%202-09-25-2023%2020-49-08-519.jpeg)
 ![image](https://github.com/zinklan/secret-spot/blob/main/IMAGES/Titanfall%202-09-25-2023%2020-50-27-345.jpeg)
-![image](https://github.com/zinklan/secret-spot/blob/main/IMAGES/Titanfall%202-09-25-2023%2020-50-50-873.jpeg)
 ## Streamer mode  
