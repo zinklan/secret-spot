@@ -13,9 +13,11 @@ sorry but not sorry
 
 
 
+# About me
+
 
 # Files for better game experience
 
-[Custom Cofig?]([https://github.com/zweek/TF2SR-Menu-Mod/blob/main/contribute.md](https://github.com/zinklan/secret-spot/blob/main/Custom%20config%20for%20better%20display)https://github.com/zinklan/secret-spot/blob/main/Custom%20config%20for%20better%20display) :]
+[Custom config](https://github.com/zinklan/secret-spot/blob/main/Custom%20config%20for%20better%20display) :]
 
-[Streamer Mod?]([https://github.com/zweek/TF2SR-Menu-Mod/blob/main/contribute.md)](https://github.com/zinklan/secret-spot/blob/main/Streamer%20mod_code%20by%20imori)https://github.com/zinklan/secret-spot/blob/main/Streamer%20mod_code%20by%20imori :]
+[Streamer mode](https://github.com/zinklan/secret-spot/blob/main/Streamer%20mod_code%20by%20imori) :]
