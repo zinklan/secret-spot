@@ -28,7 +28,7 @@ Sorry about that
 
 [Custom config](https://github.com/zinklan/secret-spot/blob/main/CODES/config) 
 
-[Streamer mode](https://github.com/zinklan/secret-spot/blob/main/Streamer%20mod_code%20by%20imori) 
+[Streamer mode](https://github.com/zinklan/secret-spot/blob/main/CODES/cl_scoreboard_mp) 
 
 # Guide for using files into the game
 
