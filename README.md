@@ -46,5 +46,6 @@ file type_nut.
 ![image](https://github.com/zinklan/secret-spot/blob/main/IMAGES/Titanfall%202-09-25-2023%2020-50-27-345.jpeg)
 ## Streamer mode  
 ### Screenshots
-![image]()
-![image]()
+![image](https://github.com/zinklan/secret-spot/blob/main/IMAGES/Titanfall%202-09-25-2023%2021-40-36-666.jpeg)
+![image](https://github.com/zinklan/secret-spot/blob/main/IMAGES/Titanfall%202-09-25-2023%2021-50-00-844.jpeg)
+![image](https://github.com/zinklan/secret-spot/blob/main/IMAGES/Titanfall%202-09-25-2023%2021-50-30-908.jpeg)
