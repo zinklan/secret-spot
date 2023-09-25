@@ -13,6 +13,6 @@ sorry but not sorry
 
 # Mods
 
- *textures change
+**textures change**
 
- *streamer mode
+
