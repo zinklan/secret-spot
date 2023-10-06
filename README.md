@@ -29,7 +29,7 @@ Sorry about that
 [Custom config](https://github.com/zinklan/secret-spot/blob/main/CODES/config)  
 file type_cfg.
 
-[Streamer mode](https://github.com/zinklan/secret-spot/blob/main/CODES/cl_scoreboard_mp)  
+[cl_scoreboard_mp](https://github.com/zinklan/secret-spot/blob/main/CODES/cl_scoreboard_mp)  
 file type_nut.
 
 # Guide for using files into the game
@@ -40,7 +40,7 @@ file type_nut.
 
 can change the graphics setting to get a better view
 
-`Streamer mod` 
+`cl_scoreboard_mp` 
 
 a mod written by Imori which can hidden the network name & player ID on the scoreboard
 
