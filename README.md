@@ -57,7 +57,7 @@ but don't effect on chat and obituaries
 ![image](https://github.com/zinklan/secret-spot/blob/main/IMAGES/Titanfall%202-09-25-2023%2020-46-00-920.jpeg)
 ![image](https://github.com/zinklan/secret-spot/blob/main/IMAGES/Titanfall%202-09-25-2023%2020-47-56-413.jpeg)
 ![image](https://github.com/zinklan/secret-spot/blob/main/IMAGES/Titanfall%202-09-25-2023%2020-50-27-345.jpeg)
-## Streamer mode 
+## cl_scoreboard_mp
 
  wait for update ....
  
