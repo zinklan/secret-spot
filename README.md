@@ -38,7 +38,7 @@ file type_nut.
 
 `Custom Config` 
 
-can optimize the graphics to get a better view
+can change the graphics setting to get a better view
 
 `Streamer mod` 
 
