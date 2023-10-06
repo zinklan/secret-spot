@@ -42,7 +42,7 @@ can change the graphics setting to get a better view
 
 `cl_scoreboard_mp` 
 
-a mod written by Imori which can hidden the network name & player ID on the scoreboard
+a file written by [Imori](https://twitter.com/Fall_Imori) which can hidden the network name & player ID on the scoreboard
 
 but don't effect on chat and obituaries
 
