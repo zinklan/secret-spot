@@ -52,8 +52,9 @@ but don't effect on chat and obituaries
  Manual:
   1) copy the code from [here](https://github.com/zinklan/secret-spot/blob/main/CODES/config) and paste it on the note
      , save it as a `cfg` file and name it `autoexec`
-  3) Paste this file into the game folder `cfg`  _   folder location : (EA Games\Titanfall2\r2\cfg)
-  4) type the word `+exec autoexec` in the advanced launch options
+  2) Paste this file into the game folder `cfg`  _   folder location : (EA Games\Titanfall2\r2\cfg)
+  3) type the word `+exec autoexec` in the advanced launch options
+  4) launch the titanfall2
 ### Screenshots
 ![image](https://github.com/zinklan/secret-spot/blob/main/IMAGES/Titanfall%202-09-25-2023%2020-46-00-920.jpeg)
 ![image](https://github.com/zinklan/secret-spot/blob/main/IMAGES/Titanfall%202-09-25-2023%2020-47-56-413.jpeg)
