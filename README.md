@@ -59,7 +59,11 @@ but don't effect on chat and obituaries
 ![image](https://github.com/zinklan/secret-spot/blob/main/IMAGES/Titanfall%202-09-25-2023%2020-50-27-345.jpeg)
 ## cl_scoreboard_mp
 
- wait for update ....
+ Manual:
+  1) 
+  2) 
+  3) 
+  4) 
  
 ### Screenshots
 ![image](https://github.com/zinklan/secret-spot/blob/main/IMAGES/Titanfall%202-09-25-2023%2021-40-36-666.jpeg)
