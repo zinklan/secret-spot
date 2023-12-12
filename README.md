@@ -54,9 +54,10 @@ but don't effect on chat and obituaries
   3) type the word `+exec autoexec` in the advanced launch options
   4) launch the titanfall2
 ### Screenshots
-![image]()
-![image]()
-![image]()
+![image](https://github.com/zinklan/secret-spot/blob/main/IMAGES/image1.png)
+![image](https://github.com/zinklan/secret-spot/blob/main/IMAGES/image2.png)
+![image](https://github.com/zinklan/secret-spot/blob/main/IMAGES/image3.png)
+![image](https://github.com/zinklan/secret-spot/blob/main/IMAGES/image4.png)
 ## cl_scoreboard_mp
 
  Manual:
