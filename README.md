@@ -45,7 +45,7 @@ a file written by [Imori](https://twitter.com/Fall_Imori) which can hidden the n
 but don't effect on chat and obituaries
 
 
-## Custom Config
+## custom config
 
  
  Manual:
@@ -72,7 +72,7 @@ but don't effect on chat and obituaries
   3) put it in the `vscripts` _   folder location : (EA Games\Titanfall2\R2Titanfall\mods\Northstar.Client\mod\scripts\vscripts)
   4) launch the titanfall2 with Vanilla+
 
-     
+
 ### Screenshots
 ![image](https://github.com/zinklan/secret-spot/blob/main/IMAGES/image5.png)
 ![image](https://github.com/zinklan/secret-spot/blob/main/IMAGES/image6.png)
@@ -81,7 +81,7 @@ but don't effect on chat and obituaries
 ## Screenshots in game
 
 
-`custom config`
+### `custom config`
 
 
 ![image](https://github.com/zinklan/secret-spot/blob/main/IMAGES/Titanfall%202-09-25-2023%2020-46-00-920.jpeg)
@@ -89,7 +89,7 @@ but don't effect on chat and obituaries
 ![image](https://github.com/zinklan/secret-spot/blob/main/IMAGES/Titanfall%202-09-25-2023%2020-50-27-345.jpeg)
 
 
-`cl_scoreboard_mp`
+## `cl_scoreboard_mp`
 
 
 ![image](https://github.com/zinklan/secret-spot/blob/main/IMAGES/Titanfall%202-09-25-2023%2021-40-36-666.jpeg)
