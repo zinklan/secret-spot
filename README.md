@@ -34,7 +34,7 @@ file type_nut.
 
 ## Purpose
 
-`Custom Config` 
+`custom Config` 
 
 can change the graphics setting to get a better view
 
@@ -58,12 +58,15 @@ but don't effect on chat and obituaries
 ![image](https://github.com/zinklan/secret-spot/blob/main/IMAGES/image2.png)
 ![image](https://github.com/zinklan/secret-spot/blob/main/IMAGES/image3.png)
 ![image](https://github.com/zinklan/secret-spot/blob/main/IMAGES/image4.png)
+
+
 ## cl_scoreboard_mp
 
  Manual:
   1) first you need to set up the [Vanilla+](https://northstar.thunderstore.io/package/NanohmProtogen/VanillaPlus/) in your Titanfall2 file 
-  2) download the file from [here](https://mega.nz/folder/o7ZH3ILa#yeARlpa6qNQYNGFpnSklcQ) and put it in the `vscripts` _   folder location : (EA Games\Titanfall2\R2Titanfall\mods\Northstar.Client\mod\scripts\vscripts)
-  3) launch the titanfall2 with Vanilla+
+  2) download the file from [here](https://mega.nz/folder/o7ZH3ILa#yeARlpa6qNQYNGFpnSklcQ) 
+  3) put it in the `vscripts` _   folder location : (EA Games\Titanfall2\R2Titanfall\mods\Northstar.Client\mod\scripts\vscripts)
+  4) launch the titanfall2 with Vanilla+
 ### Screenshots
 ![image](https://github.com/zinklan/secret-spot/blob/main/IMAGES/image5.png)
 ![image](https://github.com/zinklan/secret-spot/blob/main/IMAGES/image6.png)
