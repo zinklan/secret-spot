@@ -12,7 +12,7 @@ sorry but not sorry
 
 # About me
 
-Titanfall2 movement player, used to play some competitive contest in Titanfall2 community
+Titanfall2 movement player, used to play some competition in Titanfall2 community
 
 Over 4000hrs playtime in two main accounts ( PS4 & PC )
 
