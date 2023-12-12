@@ -29,7 +29,7 @@ if it bothers you, sorry about that ( maybe not for some shit players )
 
 Purpose : change the graphics setting to get a better view
 
-[cl_scoreboard_mp](https://github.com/zinklan/secret-spot/blob/main/CODES/cl_scoreboard_mp)  
+[cl_scoreboard_mp](https://mega.nz/folder/o7ZH3ILa#yeARlpa6qNQYNGFpnSklcQ)  
 
 
 Purpose :  hidden the network name & player ID on the scoreboard
