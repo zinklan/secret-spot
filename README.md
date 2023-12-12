@@ -60,8 +60,7 @@ but don't effect on chat and obituaries
 ## cl_scoreboard_mp
 
  Manual:
-  1) 
-  2) 
+  1) first you need to download the [northstar](https://northstar.tf/)
   3) 
   4) 
  
