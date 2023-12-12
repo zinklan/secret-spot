@@ -25,24 +25,19 @@ if it bothers you, sorry about that ( maybe not for some shit players )
 # Files for better gaming experience
 
 [Custom config](https://github.com/zinklan/secret-spot/blob/main/CODES/config)  
-file type_cfg.
+
+
+Purpose : change the graphics setting to get a better view
 
 [cl_scoreboard_mp](https://github.com/zinklan/secret-spot/blob/main/CODES/cl_scoreboard_mp)  
-file type_nut.
 
-# Guide to use the files
 
-## Purpose
-
-`custom Config` 
-
-can change the graphics setting to get a better view
-
-`cl_scoreboard_mp` 
-
-a file written by [Imori](https://twitter.com/Fall_Imori) which can hidden the network name & player ID on the scoreboard
+Purpose :  hidden the network name & player ID on the scoreboard
 
 but don't effect on chat and obituaries
+( written by [Imori](https://twitter.com/Fall_Imori) )
+
+# Guide to use the files
 
 
 ## custom config
