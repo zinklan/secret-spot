@@ -32,7 +32,7 @@ file type_cfg.
 [cl_scoreboard_mp](https://github.com/zinklan/secret-spot/blob/main/CODES/cl_scoreboard_mp)  
 file type_nut.
 
-# Guide to the files
+# Guide to use the files
 
 ## Purpose
 
