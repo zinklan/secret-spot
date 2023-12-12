@@ -95,7 +95,7 @@ but don't effect on chat and obituaries
 ![image](https://github.com/zinklan/secret-spot/blob/main/IMAGES/present3%20.jpeg)
 
 
-## `cl_scoreboard_mp`
+### `cl_scoreboard_mp`
 
 
 ![image](https://github.com/zinklan/secret-spot/blob/main/IMAGES/present4%20.jpeg)
