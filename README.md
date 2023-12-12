@@ -71,8 +71,9 @@ but don't effect on chat and obituaries
  Manual:
   1)  first you need to set up the [Vanilla+](https://northstar.thunderstore.io/package/NanohmProtogen/VanillaPlus/) in your Titanfall2 file 
   2)  download the file from [here](https://mega.nz/folder/o7ZH3ILa#yeARlpa6qNQYNGFpnSklcQ) 
-  3)  put it in the `vscripts` _   folder location : (EA Games\Titanfall2\R2Titanfall\mods\Northstar.Client\mod\scripts\vscripts)
-  4)  launch the titanfall2 with Vanilla+
+  3)  put it in the `vscripts` _
+      folder location : (EA Games\Titanfall2\R2Titanfall\mods\Northstar.Client\mod\scripts\vscripts)
+  5)  launch the titanfall2 with Vanilla+
 
 
 ===========================================================================
