@@ -46,6 +46,7 @@ but don't effect on chat and obituaries
 
 
 ## Custom Config
+
  
  Manual:
   1) copy the code from [here](https://github.com/zinklan/secret-spot/blob/main/CODES/config) and paste it on the note
@@ -64,6 +65,7 @@ but don't effect on chat and obituaries
 
 ## cl_scoreboard_mp
 
+
  Manual:
   1) first you need to set up the [Vanilla+](https://northstar.thunderstore.io/package/NanohmProtogen/VanillaPlus/) in your Titanfall2 file 
   2) download the file from [here](https://mega.nz/folder/o7ZH3ILa#yeARlpa6qNQYNGFpnSklcQ) 
@@ -74,4 +76,22 @@ but don't effect on chat and obituaries
 ### Screenshots
 ![image](https://github.com/zinklan/secret-spot/blob/main/IMAGES/image5.png)
 ![image](https://github.com/zinklan/secret-spot/blob/main/IMAGES/image6.png)
+
+
+## Screenshots in game
+
+
+`custom config`
+![image]()
+![image]()
+![image]()
+
+
+`cl_scoreboard_mp`
+![image]()
+![image]()
+![image]()
+
+
+
 
