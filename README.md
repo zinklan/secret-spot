@@ -47,15 +47,17 @@ but don't effect on chat and obituaries
 
 ## custom config
 
- 
+
+ ============================================================================================
  Manual:
-  1) copy the code from [here](https://github.com/zinklan/secret-spot/blob/main/CODES/config) and paste it on the note
-     , save it as a `cfg` file and name it `autoexec`
-  2) Paste this file into the game folder `cfg`  _   folder location : (EA Games\Titanfall2\r2\cfg)
-  3) type the word `+exec autoexec` in the advanced launch options
-  4) launch the titanfall2
+  1)  copy the code from [here](https://github.com/zinklan/secret-spot/blob/main/CODES/config) and paste it on the note
+      , save it as a `cfg` file and name it `autoexec`
+  2)  Paste this file into the game folder `cfg`  _   folder location : (EA Games\Titanfall2\r2\cfg)
+  3)  type the word `+exec autoexec` in the advanced launch options
+  4)  launch the titanfall2
 
 
+============================================================================================
 ### Screenshots
 ![image](https://github.com/zinklan/secret-spot/blob/main/IMAGES/image1.png)
 ![image](https://github.com/zinklan/secret-spot/blob/main/IMAGES/image2.png)
@@ -66,13 +68,15 @@ but don't effect on chat and obituaries
 ## cl_scoreboard_mp
 
 
+============================================================================================
  Manual:
-  1) first you need to set up the [Vanilla+](https://northstar.thunderstore.io/package/NanohmProtogen/VanillaPlus/) in your Titanfall2 file 
-  2) download the file from [here](https://mega.nz/folder/o7ZH3ILa#yeARlpa6qNQYNGFpnSklcQ) 
-  3) put it in the `vscripts` _   folder location : (EA Games\Titanfall2\R2Titanfall\mods\Northstar.Client\mod\scripts\vscripts)
-  4) launch the titanfall2 with Vanilla+
+  1)  first you need to set up the [Vanilla+](https://northstar.thunderstore.io/package/NanohmProtogen/VanillaPlus/) in your Titanfall2 file 
+  2)  download the file from [here](https://mega.nz/folder/o7ZH3ILa#yeARlpa6qNQYNGFpnSklcQ) 
+  3)  put it in the `vscripts` _   folder location : (EA Games\Titanfall2\R2Titanfall\mods\Northstar.Client\mod\scripts\vscripts)
+  4)  launch the titanfall2 with Vanilla+
 
 
+============================================================================================
 ### Screenshots
 ![image](https://github.com/zinklan/secret-spot/blob/main/IMAGES/image5.png)
 ![image](https://github.com/zinklan/secret-spot/blob/main/IMAGES/image6.png)
