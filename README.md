@@ -65,6 +65,6 @@ but don't effect on chat and obituaries
   2) download the file from [here](https://mega.nz/folder/o7ZH3ILa#yeARlpa6qNQYNGFpnSklcQ) and put it in the `vscripts` _   folder location : (EA Games\Titanfall2\R2Titanfall\mods\Northstar.Client\mod\scripts\vscripts)
   3) launch the titanfall2 with Vanilla+
 ### Screenshots
-![image]()
-![image]()
-![image]()
+![image](https://github.com/zinklan/secret-spot/blob/main/IMAGES/image5.png)
+![image](https://github.com/zinklan/secret-spot/blob/main/IMAGES/image6.png)
+
